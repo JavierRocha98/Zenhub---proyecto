@@ -1,0 +1,23 @@
+{
+	margin: 0;
+	padding: 0;
+    font-family: Maiandra GD;
+}
+
+body{
+	background: url(../img/fondo7.jpg);
+	-webkit-background-size: 100%;
+	background-size: 100% 100%;
+	background-attachment: fixed;
+}
+.text-center{
+	background: rgba(0,0,0,.7); 
+}
+
+h1{
+	color: #fff;
+	font-family: Maiandra GD;
+}
+tr{
+	font-family: Maiandra GD;
+}

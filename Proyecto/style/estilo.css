@@ -1,0 +1,20 @@
+{
+	margin: 0;
+	padding: 0;
+    font-family: Maiandra GD;
+}
+
+body{
+	background: url(../img/fondo7.jpg);
+	-webkit-background-size: 100%;
+	background-size: 100% 100%;
+	background-attachment: fixed;
+}
+
+.container{
+	padding: 80px;
+}
+
+.card{
+	font-family: Maiandra GD;
+}
